@@ -2,7 +2,7 @@ var image = "maps/bereg";
 var width = 5864;
 var height = 3808;
 var maxLevel = 5;
-var minLevel = 3;
+var minLevel = 4;
 var orgLevel = 5;
 
 var keys = L.layerGroup(),
